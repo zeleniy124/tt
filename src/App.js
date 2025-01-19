@@ -172,7 +172,7 @@ function App() {
   {/* Notification Banner */}
   <div className="notification-banner">
     <span>CA: </span>
-    <span className="blue-highlight"> updating... </span>
+    <span className="blue-highlight"> on twitter </span>
   </div>
 
   {/* Random Images */}
