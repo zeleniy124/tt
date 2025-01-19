@@ -165,14 +165,14 @@ function App() {
     <nav>
       <a href="https://t.me/trumptoksolana" className="styled-link">[tg]</a>
       <a href="https://x.com/trumptok_sol" className="styled-link">[twitter]</a>
-      <a href="https://pump.fun/coin/UqysdGgrUBJSVJ6ZqCRdvsc96UgSPYUi9V3TkfUpump" className="styled-link highlight-link">[pump.fun]</a>
+      <a href="https://pump.fun/coin/" className="styled-link highlight-link">[pump.fun]</a>
     </nav>
   </header>
 
   {/* Notification Banner */}
   <div className="notification-banner">
     <span>CA: </span>
-    <span className="blue-highlight"> UqysdGgrUBJSVJ6ZqCRdvsc96UgSPYUi9V3TkfUpump </span>
+    <span className="blue-highlight"> updating... </span>
   </div>
 
   {/* Random Images */}
